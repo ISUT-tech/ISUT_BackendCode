@@ -14,7 +14,7 @@ import com.isut.dto.GraphYearDto;
 import com.isut.dto.ShowGraphDto;
 import com.isut.repository.BookingRepository;
 import com.isut.repository.UserRepository;
-import com.isut.repostory.custom.BookingRepositoryCustom;
+import com.isut.repository.custom.BookingRepositoryCustom;
 import com.isut.service.IGraphService;
 import com.isut.utility.Utility;
 

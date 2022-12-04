@@ -30,7 +30,7 @@ import com.isut.repository.CabRepository;
 import com.isut.repository.DriverRepository;
 import com.isut.repository.LicenseRepository;
 import com.isut.repository.UserRepository;
-import com.isut.repostory.custom.CabRepositoryCustom;
+import com.isut.repository.custom.CabRepositoryCustom;
 import com.isut.service.IUserService;
 import com.isut.service.IVerificationTokenService;
 

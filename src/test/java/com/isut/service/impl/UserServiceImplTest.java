@@ -10,7 +10,6 @@ import java.util.List;
 import java.util.Optional;
 
 import javax.servlet.http.HttpServletRequest;
-import javax.validation.Valid;
 
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
@@ -19,7 +18,6 @@ import org.mockito.InjectMocks;
 import org.mockito.Mock;
 import org.mockito.MockitoAnnotations;
 import org.mockito.junit.jupiter.MockitoExtension;
-import org.springframework.http.HttpStatus;
 import org.springframework.security.authentication.UsernamePasswordAuthenticationToken;
 import org.springframework.security.core.Authentication;
 import org.springframework.security.core.context.SecurityContextHolder;
@@ -37,14 +35,13 @@ import com.isut.model.Admin;
 import com.isut.model.Cab;
 import com.isut.model.Customer;
 import com.isut.model.Driver;
-import com.isut.model.License;
 import com.isut.model.User;
 import com.isut.repository.AdminRepository;
 import com.isut.repository.CabRepository;
 import com.isut.repository.CustomerRepository;
 import com.isut.repository.DriverRepository;
 import com.isut.repository.UserRepository;
-import com.isut.repostory.custom.UserRepositoryCustom;
+import com.isut.repository.custom.UserRepositoryCustom;
 import com.isut.service.IVerificationTokenService;
 
 @ExtendWith(MockitoExtension.class)

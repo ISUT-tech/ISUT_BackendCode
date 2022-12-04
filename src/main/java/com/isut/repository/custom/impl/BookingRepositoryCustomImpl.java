@@ -1,4 +1,4 @@
-package com.isut.repostory.custom.impl;
+package com.isut.repository.custom.impl;
 
 import java.text.SimpleDateFormat;
 import java.util.Date;
@@ -14,7 +14,7 @@ import com.isut.dto.BookingFilterWithPaginationDto;
 import com.isut.dto.PaginationDataDto;
 import com.isut.dto.PaginationDto;
 import com.isut.model.Booking;
-import com.isut.repostory.custom.BookingRepositoryCustom;
+import com.isut.repository.custom.BookingRepositoryCustom;
 import com.isut.utility.Utility;
 
 @Repository

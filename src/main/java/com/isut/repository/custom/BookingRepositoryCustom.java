@@ -1,4 +1,4 @@
-package com.isut.repostory.custom;
+package com.isut.repository.custom;
 
 import java.util.Date;
 import java.util.List;

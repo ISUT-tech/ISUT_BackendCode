@@ -1,4 +1,4 @@
-package com.isut.repostory.custom.impl;
+package com.isut.repository.custom.impl;
 
 import java.util.List;
 
@@ -15,7 +15,7 @@ import com.isut.dto.UserFilterWithPaginationDto;
 import com.isut.dto.UserListResponseDto;
 import com.isut.mapper.CustomMapper;
 import com.isut.model.User;
-import com.isut.repostory.custom.UserRepositoryCustom;
+import com.isut.repository.custom.UserRepositoryCustom;
 import com.isut.utility.Utility;
 
 @Repository

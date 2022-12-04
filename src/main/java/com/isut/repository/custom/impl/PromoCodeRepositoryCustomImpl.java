@@ -1,4 +1,4 @@
-package com.isut.repostory.custom.impl;
+package com.isut.repository.custom.impl;
 
 import java.util.List;
 
@@ -13,7 +13,7 @@ import com.isut.dto.PaginationDataDto;
 import com.isut.dto.PaginationDto;
 import com.isut.dto.PromoCodeFilterWithPaginationDto;
 import com.isut.model.PromoCode;
-import com.isut.repostory.custom.PromoCodeRepositoryCustom;
+import com.isut.repository.custom.PromoCodeRepositoryCustom;
 import com.isut.utility.Utility;
 
 @Repository

@@ -38,7 +38,7 @@ import com.isut.repository.BookingRepository;
 import com.isut.repository.PromoCodeRepository;
 import com.isut.repository.TipRepository;
 import com.isut.repository.UserRepository;
-import com.isut.repostory.custom.BookingRepositoryCustom;
+import com.isut.repository.custom.BookingRepositoryCustom;
 import com.isut.service.IUserService;
 import com.isut.utility.Utility;
 

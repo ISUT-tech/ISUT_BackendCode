@@ -40,7 +40,7 @@ import com.isut.repository.CustomerRepository;
 import com.isut.repository.DriverRepository;
 import com.isut.repository.LicenseRepository;
 import com.isut.repository.UserRepository;
-import com.isut.repostory.custom.UserRepositoryCustom;
+import com.isut.repository.custom.UserRepositoryCustom;
 import com.isut.service.IEmailService;
 import com.isut.service.IUserService;
 import com.isut.service.IVerificationTokenService;

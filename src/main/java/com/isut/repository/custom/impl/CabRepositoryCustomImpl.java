@@ -1,4 +1,4 @@
-package com.isut.repostory.custom.impl;
+package com.isut.repository.custom.impl;
 
 import java.util.List;
 
@@ -12,7 +12,7 @@ import com.isut.dto.CabFilterWithPaginationDto;
 import com.isut.dto.PaginationDataDto;
 import com.isut.dto.PaginationDto;
 import com.isut.model.Cab;
-import com.isut.repostory.custom.CabRepositoryCustom;
+import com.isut.repository.custom.CabRepositoryCustom;
 import com.isut.utility.Utility;
 
 @Repository

@@ -16,7 +16,7 @@ import com.isut.dto.PromoCodeRequestDto;
 import com.isut.mapper.CustomMapper;
 import com.isut.model.PromoCode;
 import com.isut.repository.PromoCodeRepository;
-import com.isut.repostory.custom.PromoCodeRepositoryCustom;
+import com.isut.repository.custom.PromoCodeRepositoryCustom;
 import com.isut.service.IPromoCodeService;
 
 @Service
